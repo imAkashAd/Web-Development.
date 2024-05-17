@@ -1,0 +1,14 @@
+table {
+    background-color: rgb(181, 238, 238);
+    border-collapse: collapse;
+    width: 70%;
+    margin: auto;
+}
+td {
+    text-align: center;
+    color: black;
+}
+th {
+    background-color: rgb(29, 140, 142);
+    color: white;
+}
